@@ -1,5 +1,5 @@
 # Nuevas Funciones Añadidas: 
-  - autoconverisón
+  - autoconversión
   - historial de conversiones 
   - boton swap
   - mejora estetica 
