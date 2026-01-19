@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class WebService {
-    private static final String ApiKey = "aeb1cd5ef6081142040d717f";
+    private static final String ApiKey = "b328374e37f9adb9c42c3887";
     private static final String ApiUrl = "https://v6.exchangerate-api.com/v6/API-KEY/".replace("API-KEY", ApiKey);
 
     public static class CurrencyLoader implements software.ulpgc.moneycalculator.architecture.io.CurrencyLoader {
